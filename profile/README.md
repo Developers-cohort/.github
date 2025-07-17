@@ -1,12 +1,16 @@
-## Hi there 👋
+# 🚀 Developer's Cohort | Connect SRM
 
-<!--
+Welcome to **Developer's Cohort (DC)** — the project-first wing of **Connect SRM**!
 
-**Here are some ideas to get you started:**
+We build real-world, usable software and help each other grow with the motto:  
+> **Iron sharpens iron.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🌟 What we do
+- Work on **industry-style projects**
+- Encourage **peer-driven mentorship**
+- Promote **building over just learning**
+
+### 🔗 Stay tuned
+More coming soon — projects, docs, and open collaboration!
+
+📌 Projects | 📚 Learning | 💼 Joy
