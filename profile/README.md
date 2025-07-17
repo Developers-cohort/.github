@@ -13,4 +13,4 @@ We build real-world, usable software and help each other grow with the motto:
 ### 🔗 Stay tuned
 More coming soon — projects, docs, and open collaboration!
 
-📌 Projects | 📚 Learning | 💼 Joy
+📌 Projects | 📚 Learning | ⭐ Joy
